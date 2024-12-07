@@ -6,12 +6,7 @@ import ErrorPage from './pages/ErrorPages';
 import Navbar from './components/layout/Navbar';
 import Footer from './components/layout/Footer';
 
-
-// Composant pour protéger les routes
-
-
 function App() {
-
   const [isAuthenticated, setIsAuthenticated] = useState(() => {
     return localStorage.getItem('isAuthenticated') === 'true';
   });
@@ -21,7 +16,6 @@ function App() {
     localStorage.setItem('isAuthenticated', 'true');
   };
 
-
   return (
     <div className="App flex flex-col min-h-screen">
       <BrowserRouter>
@@ -29,6 +23,19 @@ function App() {
 
         <main className="flex-grow">
           <Routes>
+            {/* Route racine qui redirige vers login ou home selon l'authentification */}
+            <Route
+              path="/"
+              element={
+                isAuthenticated ? (
+                  <Navigate to="/home" replace />
+                ) : (
+                  <Navigate to="/login" replace />
+                )
+              }
+            />
+
+            {/* Route login */}
             <Route
               path="/login"
               element={
@@ -40,6 +47,7 @@ function App() {
               }
             />
 
+            {/* Route home protégée */}
             <Route
               path="/home"
               element={
@@ -51,6 +59,7 @@ function App() {
               }
             />
 
+            {/* Route d'erreur */}
             <Route path="*" element={<ErrorPage />} />
           </Routes>
         </main>
@@ -58,7 +67,6 @@ function App() {
         {isAuthenticated && <Footer />}
       </BrowserRouter>
     </div>
-
   );
 }
 
