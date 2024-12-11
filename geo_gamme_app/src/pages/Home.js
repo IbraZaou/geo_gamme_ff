@@ -118,7 +118,7 @@ const Home = () => {
                 </div>
 
                 {/* Pieces Grid */}
-                <div className="grid gap-6 grid-cols-1 md:grid-cols-2 lg:grid-cols-1">
+                <div className="grid gap-6 grid-cols-1 ">
                     {filteredPieces.map((piece, index) => (
                         <div key={index} className="bg-white rounded-xl shadow-lg p-6 hover:shadow-xl transition-shadow duration-300">
                             <div className="flex items-start justify-between mb-4">

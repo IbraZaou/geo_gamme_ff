@@ -5,13 +5,7 @@ const Footer = () => {
     return (
         <footer className="w-full py-4 mt-auto bg-white shadow-sm">
             <div className="flex items-center justify-center space-x-1 text-gray-600">
-                <span>Made with</span>
-                <Heart
-                    size={16}
-                    className="text-red-500 hover:scale-125 transition-transform duration-300 fill-current"
-                    aria-label="love"
-                />
-                <span>by</span>
+                <span>Made by </span>
                 <a
                     href="https://github.com/IbraZaou"
                     target="_blank"
