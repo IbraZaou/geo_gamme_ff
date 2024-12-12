@@ -144,7 +144,7 @@ const Home = () => {
 
                             {expandedPieces[index] && (
                                 <div className="mt-4 divide-y divide-gray-100">
-                                    <div className="grid grid-cols-2 gap-4 py-3">
+                                    <div className="grid grid-cols-3 gap-4 py-3">
                                         <div className="space-y-1">
                                             <p className="text-sm text-gray-500">Client</p>
                                             <p className="font-medium text-gray-900">{piece.client}</p>
@@ -153,19 +153,21 @@ const Home = () => {
                                             <p className="text-sm text-gray-500">PN Client</p>
                                             <p className="font-medium text-gray-900">{piece["PN client"]}</p>
                                         </div>
+                                        <div className="py-3">
+                                            <p className="text-sm text-gray-500">Code Article DUQ</p>
+                                            <p className="font-medium text-gray-900 mt-1">{piece["code article DUQ"]}</p>
+                                        </div>
                                     </div>
 
-                                    <div className="py-3">
-                                        <p className="text-sm text-gray-500">Code Article DUQ</p>
-                                        <p className="font-medium text-gray-900 mt-1">{piece["code article DUQ"]}</p>
-                                    </div>
+
 
                                     <div className="grid grid-cols-3 gap-4 py-3">
 
                                         <div className="space-y-1">
-                                            <p className="text-sm text-gray-500">BDM</p>
-                                            <p className="font-medium text-gray-900">{piece.BDM}</p>
+                                            <p className="text-sm text-gray-500">Positionnement</p>
+                                            <p className="font-medium text-gray-900">{piece.BDM || 'Plots'}</p>
                                         </div>
+
 
                                         <div className="space-y-1">
                                             <p className="text-sm text-gray-500">Plots</p>
@@ -175,7 +177,7 @@ const Home = () => {
                                             <p className="text-sm text-gray-500">Couleur plots</p>
                                             <div className="flex items-center space-x-2">
                                                 <span className={`px-3 py-1 h-8 w-8 rounded-full text-sm font-medium ${getPlotColor(piece["Couleur plots"])}`}>
-                                                    {[""] || 'Non spécifié'}
+                                                    {[""]}
                                                 </span>
                                             </div>
                                         </div>
@@ -216,7 +218,7 @@ const Home = () => {
                                         </div>
                                         <div className="space-y-1">
                                             <p className="text-sm text-gray-500">MLG</p>
-                                            <p className="font-medium text-gray-900">{piece.MLG || 'Non spécifié'}</p>
+                                            <p className="font-medium text-gray-900">{piece.MLG}</p>
                                         </div>
                                     </div>
                                 </div>

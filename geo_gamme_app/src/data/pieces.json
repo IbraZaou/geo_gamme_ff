@@ -22,7 +22,7 @@
     "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5311442320006 - 103219-AI - C13-LHS-900-STEP7.2\\",
     "Plots": "14-50-100-127",
     "Couleur plots": "b",
-    "PWK": "",
+    "PWK": "x",
     "MLG": ""
   },
   {
@@ -683,10 +683,10 @@
     "CODE": "LS",
     "BDM": "",
     "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5327220120200 - 092149-AB - C23-LS-X-1000\\",
-    "Plots": "Plots laser",
-    "Couleur plots": "",
+    "Plots": "4",
+    "Couleur plots": "r",
     "PWK": "",
-    "MLG": ""
+    "MLG": "x"
   },
   {
     "client": "PAG NDM",
@@ -748,10 +748,10 @@
     "CODE": "US",
     "BDM": "",
     "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5327042420600 - 092056-AF - C24-US-X-1000\\",
-    "Plots": "",
-    "Couleur plots": "",
+    "Plots": "4-38-87",
+    "Couleur plots": "r",
     "PWK": "",
-    "MLG": ""
+    "MLG": "x"
   },
   {
     "client": "PAG NDM",
@@ -1034,8 +1034,8 @@
     "CODE": "LS",
     "BDM": "",
     "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5327220120400 - 092153-AB - C29-LS-X-1000\\",
-    "Plots": "plots laser",
-    "Couleur plots": "",
+    "Plots": "4",
+    "Couleur plots": "r",
     "PWK": "",
     "MLG": "x"
   },
@@ -1154,7 +1154,7 @@
     "Plots": "4-40-79",
     "Couleur plots": "r",
     "PWK": "",
-    "MLG": ""
+    "MLG": "x"
   },
   {
     "client": "PAG NDM",
@@ -1245,7 +1245,7 @@
     "Plots": "4-40-79",
     "Couleur plots": "r",
     "PWK": "",
-    "MLG": ""
+    "MLG": "x"
   },
   {
     "client": "PAG NDM",
@@ -1268,10 +1268,10 @@
     "CODE": "US",
     "BDM": "",
     "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5327043320400 - 091895-AE - C33-US-X-1000\\",
-    "Plots": "",
-    "Couleur plots": "",
+    "Plots": "4-40-79",
+    "Couleur plots": "r",
     "PWK": "",
-    "MLG": ""
+    "MLG": "x"
   },
   {
     "client": "PAG NDM",
@@ -1362,7 +1362,7 @@
     "Plots": "12-70-124",
     "Couleur plots": "v",
     "PWK": "",
-    "MLG": ""
+    "MLG": "x"
   },
   {
     "client": "PAG NDM",
@@ -1372,7 +1372,7 @@
     "CODE": "RHS",
     "BDM": "",
     "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5327353420200 - 082395-AC - C34-RHS-X-B3\\",
-    "Plots": "8--69",
+    "Plots": "8-69",
     "Couleur plots": "r",
     "PWK": "",
     "MLG": "x"
@@ -1411,10 +1411,10 @@
     "CODE": "LHS",
     "BDM": "",
     "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5327680320000 - 095460-AA - C35-LHS-1000-AUX\\",
-    "Plots": "",
-    "Couleur plots": "",
+    "Plots": "12-70-124",
+    "Couleur plots": "v",
     "PWK": "",
-    "MLG": ""
+    "MLG": "x"
   },
   {
     "client": "PAG NDM",
@@ -1492,7 +1492,7 @@
     "Plots": "111-124",
     "Couleur plots": "v",
     "PWK": "",
-    "MLG": ""
+    "MLG": "x"
   },
   {
     "client": "PAG NDM",
@@ -1505,7 +1505,7 @@
     "Plots": "21-57",
     "Couleur plots": "r",
     "PWK": "",
-    "MLG": "X"
+    "MLG": "x"
   },
   {
     "client": "PAG NDM",
@@ -1518,7 +1518,7 @@
     "Plots": "111-124",
     "Couleur plots": "v",
     "PWK": "",
-    "MLG": ""
+    "MLG": "x"
   },
   {
     "client": "PAG NDM",
@@ -1554,10 +1554,10 @@
     "CODE": "US",
     "BDM": "",
     "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5327043620400 - 082142-AF - C36-US-X-B3\\",
-    "Plots": "",
-    "Couleur plots": "",
+    "Plots": "4-40-79",
+    "Couleur plots": "r",
     "PWK": "",
-    "MLG": ""
+    "MLG": "x"
   },
   {
     "client": "PAG NDM",
@@ -1580,10 +1580,10 @@
     "CODE": "RHS",
     "BDM": "",
     "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5327680321000 - 095533-AA - C37-RHS-1000-AUX\\",
-    "Plots": "",
-    "Couleur plots": "",
+    "Plots": "8-52-92",
+    "Couleur plots": "r",
     "PWK": "",
-    "MLG": ""
+    "MLG": "x"
   },
   {
     "client": "PAG NDM",
@@ -1855,8 +1855,8 @@
     "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5311379020000 - 101844-AA - S13-LHS-X-1000\\",
     "Plots": "",
     "Couleur plots": "",
-    "PWK": "x",
-    "MLG": ""
+    "PWK": "",
+    "MLG": "x"
   },
   {
     "client": "STELIA",
@@ -1868,8 +1868,8 @@
     "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5311379120000 - 101846-AA - S13-RHS-X-1000\\",
     "Plots": "",
     "Couleur plots": "",
-    "PWK": "x",
-    "MLG": ""
+    "PWK": "",
+    "MLG": "x"
   },
   {
     "client": "STELIA",
@@ -1881,8 +1881,8 @@
     "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5311379220000 - 101848-AA - S14-LHS-X-1000\\",
     "Plots": "",
     "Couleur plots": "",
-    "PWK": "x",
-    "MLG": ""
+    "PWK": "",
+    "MLG": "x"
   },
   {
     "client": "STELIA",
@@ -1894,8 +1894,8 @@
     "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5311379320000 - 101861-AA - S14-RHS-X-1000\\",
     "Plots": "",
     "Couleur plots": "",
-    "PWK": "x",
-    "MLG": ""
+    "PWK": "",
+    "MLG": "x"
   },
   {
     "client": "STELIA",
@@ -1907,8 +1907,8 @@
     "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5311395720000 - 131008-AA - S16-LHS-X-1000\\",
     "Plots": "",
     "Couleur plots": "",
-    "PWK": "x",
-    "MLG": ""
+    "PWK": "",
+    "MLG": "x"
   },
   {
     "client": "STELIA",
@@ -1920,8 +1920,8 @@
     "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5311395620000 - 131026-AA - S16-RHS-X-1000\\",
     "Plots": "",
     "Couleur plots": "",
-    "PWK": "x",
-    "MLG": ""
+    "PWK": "",
+    "MLG": "x"
   },
   {
     "client": "STELIA",
@@ -1933,8 +1933,8 @@
     "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5311379620000 - 101863-AA - S17-LHS-X-1000\\",
     "Plots": "",
     "Couleur plots": "",
-    "PWK": "x",
-    "MLG": ""
+    "PWK": "",
+    "MLG": "x"
   },
   {
     "client": "STELIA",
@@ -1946,8 +1946,8 @@
     "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5311379620200 - 101864-AA - S17-RHS-X-1000\\",
     "Plots": "",
     "Couleur plots": "",
-    "PWK": "x",
-    "MLG": ""
+    "PWK": "",
+    "MLG": "x"
   },
   {
     "client": "STELIA",
@@ -1959,8 +1959,8 @@
     "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5311395520000 - 131028-AA - S18-LHS-X-1000\\",
     "Plots": "",
     "Couleur plots": "",
-    "PWK": "x",
-    "MLG": ""
+    "PWK": "",
+    "MLG": "x"
   },
   {
     "client": "STELIA",
@@ -1972,8 +1972,8 @@
     "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5311395520200 - 131030-AA - S18-RHS-X-1000\\",
     "Plots": "",
     "Couleur plots": "",
-    "PWK": "x",
-    "MLG": ""
+    "PWK": "",
+    "MLG": "x"
   },
   {
     "client": "STELIA",
@@ -1985,8 +1985,8 @@
     "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5311379820000 - 101874-AA - S19-LHS-X-1000\\",
     "Plots": "",
     "Couleur plots": "",
-    "PWK": "x",
-    "MLG": ""
+    "PWK": "",
+    "MLG": "x"
   },
   {
     "client": "STELIA",
@@ -1998,7 +1998,7 @@
     "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5311379820200 - 101876-AA - S19-RHS-X-1000\\",
     "Plots": "",
     "Couleur plots": "",
-    "PWK": "x",
-    "MLG": ""
+    "PWK": "",
+    "MLG": "x"
   }
 ]
