@@ -1567,8 +1567,8 @@
     "CODE": "LHS",
     "BDM": "",
     "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5327680320400 - 095495-AA - C37-LHS-1000-AUX\\",
-    "Plots": "",
-    "Couleur plots": "",
+    "Plots": "111-124",
+    "Couleur plots": "V",
     "PWK": "",
     "MLG": "x"
   },
@@ -1781,19 +1781,6 @@
     "MLG": ""
   },
   {
-    "client": "PAG VAREL",
-    "PN client": "V5327364020000",
-    "code article DUQ": "174840-AA",
-    "désignation": "C40-RHS-1000-STEP7",
-    "CODE": "RHS",
-    "BDM": "",
-    "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5327364020000 - 174840-AA - C40-RHS-1000-STEP7\\",
-    "Plots": "",
-    "Couleur plots": "",
-    "PWK": "x",
-    "MLG": ""
-  },
-  {
     "client": "PAG NDM",
     "PN client": "V5327043821400",
     "code article DUQ": "091933-AE",
@@ -1801,8 +1788,8 @@
     "CODE": "US",
     "BDM": "",
     "Lien gamme": "\\\\Civ-ctrl\\CONTROLE\\06-Contrôle FF\\08-Ctrl_Géo\\Gammes 3D FF\\V5327043821400 - 091933-AE - C40-US-X-1000\\",
-    "Plots": "",
-    "Couleur plots": "",
+    "Plots": "4-40-79",
+    "Couleur plots": "R",
     "PWK": "x",
     "MLG": ""
   },
